@@ -1,0 +1,15 @@
+{
+  "title": "COOL TRACK",
+  "artist": "ARTIST",
+  "genres": [
+    "Pop",
+    "Hip Hop"
+  ],
+  "slug": "cool-track",
+  "coverImage": "https://i.pinimg.com/736x/40/d0/8b/40d08bcb202d429ca957b729d7585222.jpg",
+  "id": "1741096482742",
+  "createdAt": "2025-03-04T13:54:42.742Z",
+  "updatedAt": "2025-04-26T08:54:24.504Z",
+  "audioFile": "1741096482742.mp3",
+  "album": ""
+}
